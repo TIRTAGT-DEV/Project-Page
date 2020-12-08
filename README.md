@@ -9,7 +9,7 @@ This repository are connected directly to <a href="https://projects.tirtagt.xyz"
 * Clone with `sudo git clone https://github.com/TIRTAGT-DEV/Project-Page.git`
  
 ## Support Us
-You can <a href="https://ko-fi.com/tirtagt" target="_blank"><img src="https://raw.githubusercontent.com/TIRTAGT-DEV/Project-Page/production/Image-Resources/kofi-support-btn.png" alt="Support us on Ko-Fi"></img></a>.
+<a href="https://ko-fi.com/tirtagt" target="_blank"><img src="https://raw.githubusercontent.com/TIRTAGT-DEV/Project-Page/production/Image-Resources/kofi-support-btn.png" alt="Support us on Ko-Fi"></img></a>
 
 
 ## FAQ Section
